@@ -55,7 +55,13 @@ Antes de executar a aplicação pela primeira vez, você precisará de um **Bot 
     dotnet run
  Na primeira execução, informe o Token, o Chat ID e confirme se deseja que o programa inicie junto com o Windows.
 
-### Opção 2: Baixar o .EXE dentro de Release no Github
+### Opção 2: Download Rápido
+
+Você não precisa compilar o código nem instalar o .NET para usar.
+
+1. Acesse a aba de [Releases](https://github.com/Mateus8hen/Pcmonitor/releases).
+2. Baixe o arquivo **`PcMonitor.exe`**.
+3. Dê dois cliques para executar e siga as instruções do assistente no console.
 
 ## 🔄 Como Redefinir as Configurações
 Caso precise trocar de bot, alterar o Chat ID ou reconfigurar a inicialização automática:
